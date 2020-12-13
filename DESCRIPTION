@@ -1,0 +1,22 @@
+Package: maetool
+Type: Package
+Title: Some tools and data sets used in MAE program
+Version: 0.1.0
+Author: Yiheng An
+Maintainer: Yiheng An <anyiheng119@126.com>
+Description: This package provides some useful tools and data sets that used in MAE program.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2,
+    dplyr,
+    tidyr,
+    tibble,
+    psych,
+    usethis,
+    stats,
+    utils
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
